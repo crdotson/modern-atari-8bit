@@ -81,6 +81,9 @@ The "MyIDE PLUGIN.doc" at http://www.mr-atari.com/Mr.Atari/MyBIOS/ contains full
 
 1. Ultimate 1MB Upgrade
 
+1. [Sys-Check II](https://forums.atariage.com/applications/core/interface/file/attachment.php?id=447466) (diagnostics, RAM expander, replacement OS).
+
+
 ## Other useful information
 
 ### Image formats
@@ -91,3 +94,7 @@ The "MyIDE PLUGIN.doc" at http://www.mr-atari.com/Mr.Atari/MyBIOS/ contains full
 1. R16
 1. CAR
 1. ROM
+
+### Disk imaging tools and utilities.
+1. Flux readers/writers
+1. Disk image utilities
